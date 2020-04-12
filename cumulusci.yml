@@ -277,8 +277,8 @@ flows:
                 task: create_community
             2:
                 task: deploy_navigation_config
-            3:
-                task: deploy_community_config
+            # 3:
+            #     task: deploy_community_config
             4:
                 task: publish_community
 
